@@ -8,7 +8,7 @@
 |---|---|
 |Deana Naveen A| PES1UG24AM077 |
 | Harsh Agarwal | PES1UG24AM112 |
-| Janhavi Agarwal | PES1UG24AM121 |
+| Janavi Agarwal | PES1UG24AM121 |
 | Bhoomika Kshatriya | PES1UG24AM068 |
 
 ## Contents
