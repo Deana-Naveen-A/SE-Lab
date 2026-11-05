@@ -1,6 +1,5 @@
 # Reflection
 
-The handout PDF I was given does not list the four reflection questions. These are the usual ones. Replace the headings with the exact wording from your handout if it differs.
 
 **1. Which issues were the easiest and hardest to fix?**
 The easiest were the style and cleanup items (unused import, naming, blank lines, line length), since the tools say exactly what to change. The hardest was the SQL injection. The fix was small (`?` placeholders), but I had to understand why string concatenation is dangerous before I trusted it. The `shell=True` call was also a judgment call: I decided the notice only needed `print()`, so the subprocess could go entirely.
